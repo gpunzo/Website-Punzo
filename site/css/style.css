@@ -234,7 +234,7 @@ h1 a {
 	display: inline-block;
 	overflow: hidden;
 	width: 424px;
-	height: 126px;
+	//height: 126px;
 	text-indent: -999px;
 	transition: 0s ease;
 
@@ -582,7 +582,7 @@ a.reserv span {
 
 .hours {
 	padding-left: 80px;
-	margin-top: 105px;
+	margin-top: 60px;
 	position: relative;
 	padding-top: 33px;
 	padding-bottom: 32px;
